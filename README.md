@@ -29,7 +29,8 @@ This indicates an urgent need to address staff conduct and improve training and 
 
 **4. Cause-and-Effect Diagram:**
 The diagram identifies the root causes of the most significant issues highlighted by the Pareto chart. The diagram categorizes potential causes into major areas: people, process, environment, and training.
-Significance: By categorizing issues into four key areas, we can systematically identify root causes and prioritize areas for improvement as follows:
+
+**Significance:** By categorizing issues into four key areas, we can systematically identify root causes and prioritize areas for improvement as follows:
 - People: The findings highlight significant behavioral concerns among staff, including negative attitudes, unprofessional appearance, alcohol use before or during work, and privacy violations.
 - Processes: The diagram identifies critical flaws, such as equipment neglect and incomplete job transitions, which can lead to late arrivals or no-shows that compromise service quality.
 - Training: A significant lack of training in customer service and communication skills is a major factor contributing to complaints.
