@@ -1,5 +1,5 @@
 ## Project Overview
-This project is the analysis of customer complaint data collected from January 1 to February 19, 2024, to identify key areas for operational improvement useing tools such as a check sheet, Pareto chart, run chart, and cause-and-effect diagram to analyze the data.
+This project analyzes customer complaint data collected from January 1 to February 19, 2024, to identify key areas for operational improvement. Tools used include a check sheet, Pareto chart, run chart, and cause-and-effect diagram.
 
 ## Key Findings
 **1. Check Sheet:**
