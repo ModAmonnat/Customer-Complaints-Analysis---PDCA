@@ -4,11 +4,13 @@ This project analyzes customer complaint data collected from January 1 to Februa
 ## Key Findings
 **1. Check Sheet:**
 The sheet categorizes and quantifies complaints, which are organized into twelve distinct categories.
+
 **Significance:** The data showed that 'Unprofessional Staff' is the most significant category, with 24 complaints, followed by 'Item/Property Damaged,' highlighting key areas for operational focus.
 <img width="2001" height="1238" alt="image" src="https://github.com/user-attachments/assets/c64420a0-b356-40a1-9d52-2d68cbaa3c1c" />
 
 **2. Pareto Chart:**
 The chart categorizes complaints by frequency and highlights the most common issues.
+
 **Significance:** The chart shows that "Unprofessional Staff" was the most common complaint at 32%, followed by "Item/Property Damaged".
 <img width="2087" height="1212" alt="image" src="https://github.com/user-attachments/assets/c67e103a-0279-4cb5-a3d2-2482ffc694bf" />
 
