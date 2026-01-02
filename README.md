@@ -18,7 +18,11 @@ The chart categorizes complaints by frequency and highlights the most common iss
 
 **3. Run Chart:**
 The three run charts track complaint trends over eight weeks: the first shows overall trends, the second focuses on unprofessional staff complaints, and the third highlights item/property damage complaints.
-Significance: **The Overall Complaints** chart shows fluctuations, with Week 4 having the highest and Week 3 the lowest number of complaints. **The Unprofessional Staff Complaints** chart reveals an upward trend, peaking at 5 complaints in Week 8. This indicates an urgent need to address staff conduct and improve training and supervision to enhance customer satisfaction. **The Item/Property Damage ** chart shows variability, peaking in Week 4. This fluctuation indicates operational challenges needing investigation. Ongoing monitoring will help identify root causes and reduce complaints.
+
+**Significance:** 
+- **The Overall Complaints** chart shows fluctuations, with Week 4 having the highest and Week 3 the lowest number of complaints.
+- **The Unprofessional Staff Complaints** chart reveals an upward trend, peaking at 5 complaints in Week 8.
+This indicates an urgent need to address staff conduct and improve training and supervision to enhance customer satisfaction. **The Item/Property Damage ** chart shows variability, peaking in Week 4. This fluctuation indicates operational challenges needing investigation. Ongoing monitoring will help identify root causes and reduce complaints.
 <img width="2072" height="1080" alt="image" src="https://github.com/user-attachments/assets/e613420b-d52d-416d-b7d8-6804d7c954a5" />
 <img width="2061" height="1097" alt="image" src="https://github.com/user-attachments/assets/0d6e3112-05de-4474-8829-a539fbeb8de8" />
 <img width="2059" height="1093" alt="image" src="https://github.com/user-attachments/assets/8d2617c6-fa5f-4e40-9d71-acddba006e72" />
